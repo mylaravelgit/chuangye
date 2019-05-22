@@ -1,0 +1,115 @@
+#footer {
+    margin-top: 0.5rem;
+}
+.bg-dark {
+    background-color: #222733;
+    color: #7a87a7;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#footer .bg-dark.dk, .bg-dark .dk {
+    /* background-color: #3b4865; */
+    background: #2d3237;
+}
+.bg-dark.dk, .bg-dark .dk {
+    background-color: #171b24;
+}
+.bg-dark {
+    color: #7a87a7;
+}
+container {
+   
+}
+.row {
+ 
+}
+.header {
+position:fixed;
+left: -10000px!important;
+   width: 100%;
+}
+.col-xs-2 {
+    width: 16.66666667%;
+}
+#footer h4 {
+    font-size: 16px;
+    color: #879acd;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+#footer .list-unstyled li, .bg-dark .list-unstyled li a {
+    font-size: 14px;
+    color: #7281ad !important;
+}
+#footer .list-unstyled li, .bg-dark .list-unstyled li a {
+    font-size: 14px;
+    color: #7281ad !important;
+}
+.col-xs-3 {
+    width: 25%;
+}
+.col-xs-4 {
+    width: 33.33333333%;
+}
+#footer .m_frilink li a {
+    margin-right: 15px;
+    display: inline-block;
+}
+#footer .m_codeimg div {
+    position: relative;
+    overflow: hidden;
+}
+.col-xs-6 {
+    width: 50%;
+}
+#footer .m_codeimg div span.ma_wx {
+    left: 48px;
+}
+#footer .m_codeimg div span {
+    display: block;
+    position: absolute;
+    top: 120px;
+}
+#footer .m_codeimg div span.ma_app {
+    left: 41px;
+}
+#footer .m_codeimg div span {
+    display: block;
+    position: absolute;
+    top: 120px;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.bg-dark a, .bg-dark .text-muted {
+    font-size: 0.3rem;
+    color: #7584ac !important;
+}
+.text-center {
+    text-align: center;
+}
+.m-t-sm {
+    margin-top:0.4rem;
+}
+.footer{
+    padding: 0 0.2rem;
+    padding-bottom: 0.4rem;
+}
