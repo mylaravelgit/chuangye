@@ -18,6 +18,7 @@ Route::view('qiming','qiming');
 Route::view('heming','heming');
 Route::view('shengcheng','shengcheng');
 Route::view('shejilogo','shejilogo');
+Route::view('register2','auth.register2');
 Auth::routes();
 
 

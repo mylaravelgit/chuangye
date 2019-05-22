@@ -10,7 +10,6 @@
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
                         @csrf
-
                         <div class="form-group row">
                             <label for="mobile" class="col-md-4 col-form-label text-md-right">{{ __('手机号') }}</label>
 
