@@ -485,7 +485,6 @@
                                                         <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password" value="123456">
                                                     </div>
                                                 </div>
-
                                                 <div class="form-group row mb-0">
                                                     <div class="mail_btn">
                                                         <input type="submit" value="进行手机验证，完成注册" onclick="confirmSubmit();" style="cursor: pointer;">
