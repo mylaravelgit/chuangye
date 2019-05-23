@@ -386,7 +386,7 @@
             <div class="focus-setTab">
                 <div class="focus-menu">
                     <ul>
-                        <li class="" id="ECS_treee1">登录</li>
+{{--                        <li class="" id="ECS_treee1">登录</li>--}}
                         <li id="ECS_treee2" class="hover">注册</li>
                     </ul>
                     <div class="kpple-cB"></div>
