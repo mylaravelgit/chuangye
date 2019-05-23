@@ -33,9 +33,10 @@
             <input type="hidden" name="redirect_url_form" id="redirect_url_form" value="">
     </ul> -->
 <div onclick="openZoosUrl('chatwin');">
-    <a class="zxzx" href="/" target="_self" >
+    <a class="zxzx"  target="_self" >
         <img src="./images/index_zxzx.png">
     </a></div>
+
 </header>
 <div id="gray" style="display: none;"></div>
 <!--登录窗口-->
