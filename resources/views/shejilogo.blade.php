@@ -8,6 +8,7 @@
     <link href="./css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="./css/cybb.css" rel="stylesheet">
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
 </head>
 <body ondragstart="return false" id="top">
 <!--IE10以下请升级浏览器-->

@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="./css/iconfont.css">
     <link rel="stylesheet" href="./css/index_mobile.css">
     <link rel="stylesheet" type="text/css" href="./css/cityPicker_mobile.css">
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <script src="./js/hm.js"></script><script src="./js/hm(1).js"></script>
     <script src="./js/jquery-1.8.3.min.js"></script>
     <script src="./js/flexible.js"></script>

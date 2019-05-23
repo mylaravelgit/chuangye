@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./css/common.css">
     <!-- <link rel="stylesheet" href="/heming/hm_files/heming.css"> -->
     <!-- <link rel="stylesheet" href="/heming/hm_files/index.css"> -->
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <script src="./js/hm.js"></script><script src="./js/flexible.js"></script>
     <script src="./js/hm(1).js"></script>
     <script src="./js/jquery-1.8.3.min.js"></script>

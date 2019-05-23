@@ -11,6 +11,7 @@
     <script src="./js/flexible.js"></script>
     <link rel="stylesheet" href="./css/layer.css" id="layui_layer_skinlayercss">
     <script src="./js/layer.js"></script>
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <style>
         .zxzx img{
             width: 2.5rem;
@@ -31,9 +32,10 @@
                 </li>
             <input type="hidden" name="redirect_url_form" id="redirect_url_form" value="">
     </ul> -->
-    <a class="zxzx" href="/" target="_self">
+<div onclick="openZoosUrl('chatwin');">
+    <a class="zxzx" href="/" target="_self" >
         <img src="./images/index_zxzx.png">
-    </a>
+    </a></div>
 </header>
 <div id="gray" style="display: none;"></div>
 <!--登录窗口-->

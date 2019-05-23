@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="./css/cityPicker_mobile.css">
     <script type="text/javascript" defer="" async="" src="./js/uaest.js"></script>
     <script src="./js/jquery-1.8.3.min.js"></script>
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <script type="text/javascript" src="./js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="./js/flexible.js"></script>
     <script type="text/javascript" src="./js/cityData.js"></script>
